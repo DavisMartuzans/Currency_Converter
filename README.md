@@ -1,3 +1,11 @@
 # Currency_Converter
-It converts euros to Russian Ruble(RUB), United States dollars(USD), Japanese yen(JPY), British pounds(GBP).
-The user inputs the amount of euros that he wants to convert. The program converts certain amount of euros to Russian Ruble(RUB), United States dollars(USD), Japanese yen(JPY), British pounds(GBP). It prints all of the conversions.
+## Apraksts
+Lietotājs ievada euro daudzumu un programma pārveido euro uz Russian Ruble(RUB), United States dollars(USD), Japanese yen(JPY), British pounds(GBP).
+## Galvenās funkcijas
+-Ievadit Euro daudzumu
+-Apstrādāt Euro uz 4 citām valūtām
+-Izvadīt pārveidotās valūtas
+## Izmantotās tehnoloģijas
+-C++
+## Izmantotie avoti
+https://favtutor.com/blogs/cpp-projects-for-beginners
